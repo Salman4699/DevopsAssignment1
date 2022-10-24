@@ -1,0 +1,7 @@
+Filesystem     Type   Size  Used Avail Use% Mounted on
+tmpfs          tmpfs  784M  2.3M  782M   1% /run
+/dev/sda8      ext4    98G   20G   74G  21% /
+tmpfs          tmpfs  3.9G     0  3.9G   0% /dev/shm
+tmpfs          tmpfs  5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2      vfat    96M   64M   33M  66% /boot/efi
+tmpfs          tmpfs  784M  4.7M  780M   1% /run/user/1000
